@@ -102,6 +102,7 @@ public class StudentReportResponse {
     public static class CertificateInfo {
         private String certificateType;
         private String certificateName;
+        private String scoreOrLevel;
         private String issueDate;
         private String expiryDate;
         private String status;
